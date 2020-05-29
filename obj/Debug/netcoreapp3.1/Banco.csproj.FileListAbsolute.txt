@@ -1,0 +1,12 @@
+/Users/bryanramirez/Projects/Banco/bin/Debug/netcoreapp3.1/Banco.deps.json
+/Users/bryanramirez/Projects/Banco/bin/Debug/netcoreapp3.1/Banco.runtimeconfig.json
+/Users/bryanramirez/Projects/Banco/bin/Debug/netcoreapp3.1/Banco.runtimeconfig.dev.json
+/Users/bryanramirez/Projects/Banco/bin/Debug/netcoreapp3.1/Banco.dll
+/Users/bryanramirez/Projects/Banco/bin/Debug/netcoreapp3.1/Banco.pdb
+/Users/bryanramirez/Projects/Banco/obj/Debug/netcoreapp3.1/Banco.csprojAssemblyReference.cache
+/Users/bryanramirez/Projects/Banco/obj/Debug/netcoreapp3.1/Banco.csproj.CoreCompileInputs.cache
+/Users/bryanramirez/Projects/Banco/obj/Debug/netcoreapp3.1/Banco.dll
+/Users/bryanramirez/Projects/Banco/obj/Debug/netcoreapp3.1/Banco.pdb
+/Users/bryanramirez/Projects/Banco/obj/Debug/netcoreapp3.1/Banco.genruntimeconfig.cache
+/Users/bryanramirez/Projects/Banco/obj/Debug/netcoreapp3.1/Banco.AssemblyInfoInputs.cache
+/Users/bryanramirez/Projects/Banco/obj/Debug/netcoreapp3.1/Banco.AssemblyInfo.cs
